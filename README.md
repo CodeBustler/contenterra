@@ -1,8 +1,4 @@
-# React + Vite
+# ContenTerra | JSON Challenge | By using ReatJS
+Challenge: You are required to display the JSON data from this link https://www.reddit.com/r/reactjs.json in the format below. Feel free to use any colors. You should use the following fields on each card – Title, SelfText_HTML, URL and score (you can find the attributes in the children array). Page should be responsive and use a default resolution of 1280*720.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live : 
